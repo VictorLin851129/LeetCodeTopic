@@ -32,6 +32,6 @@ class Solution {
 }
 ```
 ### Time complexity: O(n)
-#### Where n islength of path
+#### Where n is length of path
 ### Space complexity: O(n)
 #### Where n is length of path
